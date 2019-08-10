@@ -1,0 +1,60 @@
+﻿1,3PL,3rd　Party　Logistics,サード・パーティー・ロジスティクス
+2,ASP,Application　Service　Provider　,アプリケーションソフトをインターネット経由で提供する事業者
+3,BABOK,Business　Analysis　Body　Of　Knowledge,ビジネスアナリシス知識体系ガイド
+4,BPMN,Business　Process　Modeling　Notation ,ビジネスプロセスモデリング表記法
+5,BI,Business　Intelligence,ビジネスインテリジェンス
+6,BPO,Business　Process　Outsourcing ,ビジネスプロセスアウトソーシング 
+7,BSC,Balanced　Score　Card,バランススコアカード
+8,BTO,build　to　order,受注生産方式
+9,CAD,Computer　Aided　Design,コンピュータ支援設計(キャド）
+10,CALS,Commerce　At　Light　Speed,電子取引支援システム（キャルス）
+11,CE,Concurrent　Engineering,コンカレント・エンジニアリング
+12,CRM,Customer　Relationship　Management,顧客関係管理
+13,CS,Cuｓtomer　Satisfaction,顧客満足度
+14,CSF,Critical　Success　Factors,主要（重要）成功要因
+15,CSP,Content　Security　Policy,コンテントセキュリティポリシー
+16,DFD,Data　Flow　Diagram,データフローダイアグラム
+17,DKIM,DomainKeys　Identified　Mail,迷惑メール対策委員会
+18,EA,Enterprise　Architecture ,エンタープライズアーキテクチャ 
+19,EAI,Enterprise　Apprication　Integration,エンタープライズアプリケーション統合
+20,EC,Electronic　Commerce,電子商取引
+21,EC,Enployee　Satisfaction,従業員満足度
+22,EDI,Electronic　Data　Interchange,電子データ交換
+23,EMS,Electronics　Manufacturing　Service,電子機器受託製造サービス
+24,EOS,Electronic　Ordering　Syetem,電子発注システム
+25,ERP,Enterprise　Resouｒce　Planning,企業資源計画
+26,ESB,Enterprise　Service　Bus,エンタープライズサービスバス
+27,EVA,Economic　Value　Added,経済的付加価値
+28,IoT,Internet　of　Things,モノのインターネット
+29,IRR,Internal　Rate　of　Return,内部収益率
+30,ITIL,Information　Technology　Infrastructure　Library,ITインフラストラクチャ・ライブラリ
+31,ＪＩＴ,Just　In　Time,かんばん方式
+32,KGI,Key　Goal　Indicator,重要目標達成指標
+33,KM,Knowledge　Management,ナレッジ マネージメント
+34,KPI,Key　Perfomance　Indicator,重要業績評価指標
+35,LTV,Life　Time　Value,顧客生涯価値
+36,MBO,Management　By　Objectives,目標による管理
+37,MRP,Material　Requirements　Planning ,資材所要量計画
+38,NPV,Net　Present　Value,正味現在価値
+39,PCIDSS,Payment　Card　Indusry　Data　Security　Standard,PCIデータセキュリティスタンダード
+40,PDCA,Plan　Do　Check　Act ,計画・実行・点検（評価)・改善
+41,PHR,Personal　Health　Record,個人健康（医療）記録
+42,PMBOK,Project　Management　Body　of　Knowledge,プロジェクトマネージメント知識体系（ピンボック）
+43,QSA,Qualified　Security　Assessors,認定審査機関
+44,RFC,Request　For　Coｍmennts,IETF（インターネットに関する技術の標準を定める団体）が正式に発行する文書
+45,RFI,Request　For　Information,情報提供依頼書
+46,RFID,Radio　Frequency　Identification,非接触型自動識別技術（関連  RFIDタグ)
+47,RFP,Request　For　Proposal,提案依頼書
+48,ROE,Return　On　Equity,自己資本利益率
+49,ROI,Return　On　Investment,投資利益率
+50,SaaS,Software　as　a　Service,必要機能を必要分だけサービスとして利用可にしたソフトウェアまたはその提供形態。
+51,SCM,Supply　Chain　Management,サプライチェーン・マネジメント
+52,SEO,Search　Engine　Optimization,検索エンジン最適化
+53,SFA,Sales　Force　Automation,営業支援システム
+54,SOA,Servic　Oriented　Arcitecture,サービス指向アーキテクチャ
+55,SPA,Speciality　store　retailer　of　Private　label　Apparel,製造小売業
+56,SPC,Special　Purpose　Company,特別目的会社
+57,SQuBOK,Software　Quality　Body　of　Knowledge,ソフトウェア品質知識体系（すくぼっく）
+58,SWEBOK,SoftWare　Engineering　Body　Of　Knowledge,ソフトウェアエンジニアリング知識体系（すうぇぼっく）
+59,UML,Unified　Modeling　Language,オブジェクト指向分析や設計のための統一モデリング言語
+60,XBRL,eXtensible　Business　Reporting　Language,企業の財務情報の記述に特化したXMLベースの言語
